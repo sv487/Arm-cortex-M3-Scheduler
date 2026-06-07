@@ -1,4 +1,4 @@
-# ARM Cortex-M3 Context Switching & Scheduler (Bare Metal)
+# ARM Cortex-M3 Scheduler (Bare Metal)
 
 A bare-metal ARM Cortex-M3 project that demonstrates how a CPU appears to run multiple tasks concurrently by switching between them and restoring their execution context.
 
